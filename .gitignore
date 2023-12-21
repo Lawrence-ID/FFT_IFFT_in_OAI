@@ -1,6 +1,7 @@
 *.*
 *
 !*/
+!/simde-0.7.2/**
 !/csrc/*
 !/include/**
 !Makefile
